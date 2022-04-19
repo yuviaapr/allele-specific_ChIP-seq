@@ -1,0 +1,5 @@
+clone,sample,reads1,reads2,type
+ChIP_ESC-TX1072R1,H3K27ac,/scratch/user/H3K27ac/SRR7514317.1_1.fastq.gz,/scratch/user/H3K27ac/SRR7514317.1_2.fastq.gz,histone
+ChIP_ESC-TX1072R1,input,/scratch/user/input/SRR7514315.1_1.fastq.gz,/scratch/user/input/SRR7514315.1_2.fastq.gz,control
+ChIP_ESC-TX1072R2,H3K27ac,/scratch/user/H3K27ac/SRR7514325.1_1.fastq.gz,/scratch/user/H3K27ac/SRR7514325.1_2.fastq.gz,histone
+ChIP_ESC-TX1072R2,input,/scratch/user/input/SRR7514323.1_1.fastq.gz,/scratch/user/input/SRR7514323.1_2.fastq.gz,control
